@@ -4,9 +4,9 @@
 
 #### Para correr la aplicación:
 
- - Descargar ExtJS 6  - http://cdn.sencha.com/ext/gpl/ext-6.2.0-gpl.zip?utm_source=sncln&utm_medium=email&utm_campaign=pt_purchase&utm_content=tnc-gpl%E2%80%94extjs1
+ - Descargar ExtJS 6  - [descargarExtJS6]
  
- - Descargar Sencha CMD  - https://www.sencha.com/products/extjs/cmd-download/
+ - Descargar Sencha CMD  - [descargarSenchaCMD]
 
  - Configurar Sencha Cmd con el sdk descargado: `sencha config --prop sencha.sdk.path=C:\Users\Me\sencha-sdks --save`
  
@@ -71,5 +71,8 @@
 
 
  [screenProductView]: <https://drive.google.com/file/d/1JfWRtrwB0aZUzPlawevZTFHpYURHE9c6/view?usp=sharing>
- [screenProviderView]: < https://drive.google.com/file/d/1Otp46D7yKbBqIzqyjpNhD-3N-Pq3jcCl/view?usp=sharing>
+ [screenProviderView]: <https://drive.google.com/file/d/1Otp46D7yKbBqIzqyjpNhD-3N-Pq3jcCl/view?usp=sharing>
+ [descargarSenchaCMD]: <https://www.sencha.com/products/extjs/cmd-download/>
+ [descargarExtJS6]: <http://cdn.sencha.com/ext/gpl/ext-6.2.0-gpl.zip?utm_source=sncln&utm_medium=email&utm_campaign=pt_purchase&utm_content=tnc-gpl%E2%80%94extjs1>
+
 
