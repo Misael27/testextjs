@@ -1,0 +1,18 @@
+### ExtJs 6 ###
+
+# Architect
+.architect
+
+# Dynamically Genarated Files
+bootstrap.css
+bootstrap.js
+bootstrap.json
+modern.json
+classic.json
+native.json
+
+# Build Folder
+/build/
+
+# Logs
+*.log
